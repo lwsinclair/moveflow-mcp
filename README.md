@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lavande-moveflow-mcp-badge.png)](https://mseep.ai/app/lavande-moveflow-mcp)
+
 # MoveFlow MCP 服务器
 
 MoveFlow MCP (Model Context Protocol) 服务器是一个基于TypeScript开发的应用程序，它提供了与MoveFlow服务交互的API接口，使AI助手能够直接创建和管理Aptos区块链上的支付流。
